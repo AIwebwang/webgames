@@ -10,3 +10,24 @@
 [submodule "Games4"]
 	path = Games4
 	url = https://github.com/AIwebwang/Games4
+[submodule "Games5"]
+	path = Games5
+	url = https://github.com/AIwebwang/Games5
+[submodule "Games6"]
+	path = Games6
+	url = https://github.com/AIwebwang/Games6
+[submodule "Games7"]
+	path = Games7
+	url = https://github.com/AIwebwang/Games7
+[submodule "Games8"]
+	path = Games8
+	url = https://github.com/AIwebwang/Games8
+[submodule "Games9"]
+	path = Games9
+	url = https://github.com/AIwebwang/Games9
+[submodule "Games10"]
+	path = Games10
+	url = https://github.com/AIwebwang/Games10
+[submodule "home"]
+	path = home
+	url = https://github.com/AIwebwang/home
